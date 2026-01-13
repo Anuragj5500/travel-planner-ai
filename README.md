@@ -9,7 +9,7 @@
 * **🔐 Secure Authentication:** Google Sign-In integration via Firebase Authentication.
 * **💾 Trip History:** Automatically saves generated trips to your local history for easy access.
 * **🎲 Explore Mode:** "Surprise Me" feature that suggests trending luxury destinations.
-* **📱 Fully Responsive:** immersive, edge-to-edge design optimized for 4K monitors and mobile devices.
+* **📱 Fully Responsive:** immersive, edge-to-edge design optimized.
 
 ---
 

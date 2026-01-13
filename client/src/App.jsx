@@ -136,7 +136,7 @@ function App() {
     setBgImage(`https://image.pollinations.ai/prompt/cinematic%20drone%20shot%20of%20${encodeURIComponent(formData.destination)}%20luxury%20travel%204k?width=1920&height=1080&nologo=true`);
 
     try {
-      const response = await fetch('https://travel-planner-ai-2fi0.onrender.com/api/generate-trip', {
+      const response = await fetch('https://travel-planner-ai-2fi0.onrender.com', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),

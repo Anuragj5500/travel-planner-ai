@@ -1,6 +1,5 @@
 # 🌍 TravelAI - Intelligent Travel Planner
 
-![TravelAI Demo](https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=2021&auto=format&fit=crop)
 **TravelAI** is a full-stack web application that generates personalized, day-by-day travel itineraries using the power of advanced generative AI. It features a modern, glassmorphic UI, dynamic image generation, and secure authentication.
 
 ## ✨ Features
